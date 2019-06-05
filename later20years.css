@@ -1,0 +1,51 @@
+body{
+	font-family:bookman old style;
+	text-align: center;
+}
+.df{
+	display: flex;
+	margin-top: 35px;
+}
+.img{
+	height: 275px;
+	width: 275px;
+}
+.img:hover{
+	transform: scale(1.15);
+}
+.banner{
+	background-color: #f7b4ad;
+}
+.ml{
+	margin-left: 420px;
+	color: #7387a3
+}
+.circle{
+	margin-left: 70px;
+	color: #7387a3
+}
+.dream{
+	text-align: center;
+	color: #ffe1c6;
+	padding-top: 25px;
+	text-decoration: underline;
+}
+.intro{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	color: #a07272;
+	margin-top: 50px;
+}
+.first{
+	padding-top: 100px;
+	color: #847f73
+}
+.second{
+	padding-top: 70px;
+	color: #847f73
+}
+.p{
+    border: 1px solid #fc6e4b;
+    padding: 30px;
+   }
